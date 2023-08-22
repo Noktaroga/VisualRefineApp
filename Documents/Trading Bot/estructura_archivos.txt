@@ -1,0 +1,8 @@
+.	estructura_archivos.txt
+.	file_structure_generator.py
+src	__init__.py
+src\data	binance_client.py
+src\data	data_processing.py
+src\data	__init__.py
+src\strategies	trading_strategy.py
+src\strategies	__init__.py
